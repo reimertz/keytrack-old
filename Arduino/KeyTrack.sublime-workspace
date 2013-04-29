@@ -1,0 +1,1024 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"twitterBut",
+				"twitterButton2"
+			],
+			[
+				"digital",
+				"digitalRead"
+			],
+			[
+				"Y",
+				"Y_END_PORT"
+			],
+			[
+				"mi",
+				"micros"
+			],
+			[
+				"prev",
+				"prevYTime"
+			],
+			[
+				"prevX",
+				"prevXTime"
+			],
+			[
+				"mv",
+				"moveX"
+			],
+			[
+				"x",
+				"X_ARRAY_LENGTH"
+			],
+			[
+				"shadow",
+				"shadowXArray"
+			],
+			[
+				"X_",
+				"X_END_PORT"
+			],
+			[
+				"end",
+				"endPos"
+			],
+			[
+				"start",
+				"startPos"
+			],
+			[
+				"img",
+				"IMG_50KB"
+			],
+			[
+				"get",
+				"getUser"
+			],
+			[
+				"fb",
+				"fbUser"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"window",
+				"windowSizeHandler"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"image",
+				"imageDownloader"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"wr",
+				"wrapperZIndex"
+			],
+			[
+				"sound",
+				"sound0"
+			],
+			[
+				"IMG",
+				"IMG_2MB"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"num",
+				"numOfMB"
+			],
+			[
+				"targ",
+				"targetMB"
+			],
+			[
+				"im",
+				"imgURLLarge"
+			],
+			[
+				"numOf",
+				"numOfMB"
+			],
+			[
+				"progress",
+				"progressBar"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"data",
+				"data-slide"
+			],
+			[
+				"c",
+				"carousel"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"js",
+				"js"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "KeyTrack.ino",
+			"settings":
+			{
+				"buffer_size": 5378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Serial port cu. already in use. Try quitting any programs that may be using it.Serial port cu. already in use. Try quitting any programs that may be using it.",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix",
+				"name": "Serial Monitor - cu."
+			}
+		},
+		{
+			"file": "/Volumes/Macintosh HD-1/Library/WebServer/Documents/test.html",
+			"settings":
+			{
+				"buffer_size": 34062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Macintosh HD-1/Library/WebServer/Documents/2MB.html",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "KetTrack_Digital/KetTrack_Digital.ino",
+			"settings":
+			{
+				"buffer_size": 5487,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pierrereimertz/Development/KeyTrack/KetTrack_Digital/KetTrack_Digital.ino",
+		"/Users/pierrereimertz/Development/KeyTrack/KetTrack_Digital.ino",
+		"/Users/pierrereimertz/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pierrereimertz/Development/KeyTrack/KeyTrack.ino",
+		"/Users/pierrereimertz/Development/Vasktrafik.se/Vasktrafik.sublime-project",
+		"/Users/pierrereimertz/Development/Vasktrafik.se/server.js",
+		"/Users/pierrereimertz/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/Macintosh HD-1/Library/WebServer/Documents/test.html",
+		"/Volumes/Macintosh HD-1/Library/WebServer/Documents/index.html",
+		"/Volumes/Macintosh HD-1/Library/WebServer/Documents/images/fb_share.png",
+		"/Users/pierrereimertz/Development/qstify/src/main/webapp/client/js/timers/queueTimer.js",
+		"/Volumes/pierre/Sites/VaskaDatatrafik/index.html",
+		"/Users/pierrereimertz/Downloads/homepage/index.html",
+		"/Users/pierrereimertz/Downloads/homepage/css/bootstrap-responsive.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn-large",
+			"avbrytVask",
+			"--port",
+			"delay",
+			"shadowRightYArray",
+			"shadowRef",
+			"PROGMEM",
+			"shareButton",
+			"skamsButton",
+			"5px",
+			"socialFetcher",
+			"like",
+			"alert",
+			"shareButton",
+			"res",
+			"info",
+			"marketing",
+			"skams",
+			"skamsButton",
+			"featurette",
+			"content",
+			"moz",
+			"-moz",
+			"finished",
+			"contai",
+			"container",
+			"z",
+			"load",
+			"bar",
+			"startLoop",
+			"progress",
+			"procent",
+			"footer",
+			"data",
+			"container",
+			"bg",
+			"my",
+			"carousel-control",
+			"left",
+			"align",
+			"car",
+			"next",
+			"right",
+			"carousel",
+			"myCarousel",
+			"Carousel%20Template%20%C2%B7%20Bootstrap_files"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "KeyTrack.ino",
+					"settings":
+					{
+						"buffer_size": 5378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 516.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/Macintosh HD-1/Library/WebServer/Documents/test.html",
+					"settings":
+					{
+						"buffer_size": 34062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6929,
+								6929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4898.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/Macintosh HD-1/Library/WebServer/Documents/2MB.html",
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "KetTrack_Digital/KetTrack_Digital.ino",
+					"settings":
+					{
+						"buffer_size": 5487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1160,
+								1160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Compilation_KeyTrack_13419":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_137932":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_143763":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_167195":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_180068":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_192473":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_202106":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_206796":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_222896":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_229302":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_235549":
+	{
+		"height": 164.0
+	},
+	"output.Compilation_KeyTrack_238406":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_240861":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_247778":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_252162":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_25426":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_258014":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_263556":
+	{
+		"height": 0.0
+	},
+	"output.Compilation_KeyTrack_267054":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_284509":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_28717":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_290607":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_297090":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_299243":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_301274":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_301731":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_311099":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_317438":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_319499":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_320911":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_324542":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_334045":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_334278":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_338781":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_348233":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_355746":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_357203":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_366558":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_382078":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_396700":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_406884":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_410933":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_420001":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_425819":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_454420":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_457051":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_457941":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_463416":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_467194":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_467595":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_469034":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_47816":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_479024":
+	{
+		"height": 308.0
+	},
+	"output.Compilation_KeyTrack_486687":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_491133":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_50602":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_508231":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_513233":
+	{
+		"height": 0.0
+	},
+	"output.Compilation_KeyTrack_524313":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_53046":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_537897":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_543246":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_548375":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_551623":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_566806":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_57471":
+	{
+		"height": 0.0
+	},
+	"output.Compilation_KeyTrack_576557":
+	{
+		"height": 0.0
+	},
+	"output.Compilation_KeyTrack_586270":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_602496":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_625076":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_637267":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_642518":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_642541":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_667977":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_679317":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_68068":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_685400":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_693424":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_705205":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_707246":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_711":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_722764":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_733038":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_750985":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_75432":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_76225":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_771890":
+	{
+		"height": 442.0
+	},
+	"output.Compilation_KeyTrack_780457":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_78753":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_790243":
+	{
+		"height": 329.0
+	},
+	"output.Compilation_KeyTrack_794626":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_798077":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_805660":
+	{
+		"height": 273.0
+	},
+	"output.Compilation_KeyTrack_807251":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_810691":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_811112":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_813154":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_817419":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_824675":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_831511":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_851121":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_855804":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_869777":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_875903":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_87812":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_893148":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_915733":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_955670":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_958328":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_973282":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_973832":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_974406":
+	{
+		"height": 112.0
+	},
+	"output.Compilation_KeyTrack_994273":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.stino_log":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/pierrereimertz/Development/Vasktrafik.se/Vasktrafik.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

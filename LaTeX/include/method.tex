@@ -1,0 +1,60 @@
+\chapter{Method}
+The project was divided into three different phases. The literature study, the developing phase and the test/polishing phase.
+
+The first phase was where all the information needed to make the project possible was gathered.
+The second phase was the phase where the prototype was created and it's functionality implemented.
+Finally, the last phase was used to make the finishing touches on the prototype to make sure it
+was working as expected.
+
+\section{Literature review}
+During the literature review there were several solutions to consider. Ultrasound, IR and an optic
+solution. These solutions were documented in databases that Chalmers provides for its students.
+Information was gathered from various websites, articles and reports inside and outside of the
+database.
+
+Along with finding a proper solutions, proper hardware was required for the project.\\
+When gathering information from reports, articles and from other sources, a lot of hardware was
+presented. This made it easier to chose hardware because of the natural combination. The hardware
+information itself was gathered from it's creators website, since some of the articles and reports
+didn't provide enough information for what the project needed.
+
+\section{Developing phase}
+\subsection{Hardware}
+The first small prototype was made using a breadboard and an Arduino Uno. The prototype
+include four phototransistors and a single IR-LED. This first edition was capable of interpreting
+sideways mouvements and left-mouse-clicks. Because of the limited space on the breadboard
+the next version of the prototype had to be made using some other base on which to put the 
+hardware.\\
+Stripboards were cut into circa 14 centimeter long pieces and put together to make a square
+frame on which the hardware was fastened using wire-wrapping.
+
+Wire-wrapping is an alternative to and not as skill-demanding as soldering.
+
+\subsection{Software}
+
+\subsection{Design}
+\subsubsection{Frame design}
+This design of this project is based on a “keyboard name” keyboard. The frame is 
+entirely based on the measures of the keyboard. This includes the height and length, 
+since it’s important that the frame is not in the way when operating the keyboard. 
+With this in mind the prototype was given the measurements “lol”, “lol”, “lol”. The 
+frame is connected with a lot of cables to a arduino card at the other end. Even 
+though these cables will hurt the design and the prototype’s adaptability, this project 
+will not treat the matter due to limited time. From the arduino card goes a 
+USB cable (mini to 2.0 USB)  into the computer.
+
+\subsubsection{Mouse movements and clicks}
+ Since the prototype was created to replace a normal mouse, this chapter is showing 
+ how the different commands are translated from the mouse to the IR-frame. 
+ Since the mouse we choose as reference has 3 buttons, the prototype won’t go any 
+ further than that. The scroll-click is also excluded.
+
+The card Arduino Due that is used in this project has already a software library 
+with mouse commands. This made it easy to locate and translate the mouse command in to
+what ever command desired.
+
+The different mouse commands were then translated to the IR-frame. This proved to be 
+difficult since it was not obvious what hand gestures worked best with what command. 
+
+\section{Test/polishing phase}
+N/A
