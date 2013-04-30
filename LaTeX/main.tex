@@ -1,4 +1,4 @@
-%%%%%
+	%%%%%
 %%
 %% Chalmers University of Technology Master's Thesis Template
 %%
@@ -13,68 +13,70 @@
 %%%%%
 \documentclass[11pt,a4paper]{report}
 
+
+
 % Packages and commands file
 \input{include/packagescommands}
-
 % Settings (Metadata)
+
 \input{include/settings}
 
 \begin{document}
 
 % Title page and abstract
-\input{include/titlepageabstract}
+	\input{include/titlepageabstract}
 
-% Table of contents
-\newpage
-\pagenumbering{roman}
-\setcounter{page}{1}
-\pagestyle{fancy}
-\setspecialhdr
-\tableofcontents
+	% Table of contents
+	\newpage
+	\pagenumbering{roman}
+	\setcounter{page}{1}
+	\pagestyle{fancy}
+	\setspecialhdr
+	\tableofcontents
 
-% Main area
-\newpage
-\setdefaulthdr
-\pagenumbering{arabic}	
-\setcounter{page}{1}
+	% Main area
+	\newpage
+	\setdefaulthdr
+	\pagenumbering{arabic}	
+	\setcounter{page}{1}
 
-% Content
-\input{include/introduction}
+	% Content
+	\input{include/introduction}
 
-\newpage
-\clearpage
+	\newpage
+	\clearpage
 
-\input{include/method}
+	\input{include/method}
 
-\newpage
-\clearpage
+	\newpage
+	\clearpage
 
-\input{include/results}
+	\input{include/results}
 
-\newpage
-\clearpage
+	\newpage
+	\clearpage
 
-\input{include/discussion}
+	\input{include/discussion}
 
-\newpage
-\clearpage
+	\newpage
+	\clearpage
 
-\input{include/conclusions}
+	\input{include/conclusions}
 
-\newpage
-\clearpage
+	\newpage
+	\clearpage
 
-% Nocite references
-\nocite{Brody1996}
+	% Nocite references
+	\nocite{Brody1996}
 
-\bibliography{references} % references.bib
-\addcontentsline{toc}{chapter}{\numberline{} Bibliography} % For pdf
-\setspecialhdr
+	\bibliography{references} % references.bib
+	\addcontentsline{toc}{chapter}{\numberline{} Bibliography} % For pdf
+	\setspecialhdr
 
-\newpage
-% Appendices
-\appendix
-\setdefaulthdr
+	\newpage
+	% Appendices
+	\appendix
+	\setdefaulthdr
 
 %\input{include/appendix1}
 \end{document}
