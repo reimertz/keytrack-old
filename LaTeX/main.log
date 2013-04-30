@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.25)  30 APR 2013 09:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.25)  30 APR 2013 10:01
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -812,9 +812,9 @@ File: fig/phototrans.jpg Graphic file (type jpg)
 fier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 
-       [4]
-Underfull \hbox (badness 10000) in paragraph at lines 169--172
+l.158 
+       [4 <./fig/phototrans.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
@@ -827,8 +827,8 @@ l.44 \newpage
 ame{page.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.45 \clearpage
-                [6 <./fig/phototrans.jpg>] (./include/method.tex
+l.44 \newpage
+              [6] (./include/method.tex
 Chapter 2.
 [7
 
@@ -863,13 +863,13 @@ Underfull \hbox (badness 3179) in paragraph at lines 19--22
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 8035 strings out of 493848
- 113649 string characters out of 1152823
+ 8036 strings out of 493848
+ 113671 string characters out of 1152823
  205654 words of memory out of 3000000
- 10974 multiletter control sequences out of 15000+50000
+ 10975 multiletter control sequences out of 15000+50000
  52173 words of font info for 104 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 43i,11n,43p,312b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,43p,312b,372s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texm
@@ -879,7 +879,7 @@ blic/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (20 pages, 555831 bytes).
+Output written on main.pdf (20 pages, 555648 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
