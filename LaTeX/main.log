@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.25)  30 APR 2013 10:01
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.25)  30 APR 2013 11:07
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -643,7 +643,32 @@ Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
 
 (/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))) (./include/settings.tex
+))
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count119
+\calc@Bcount=\count120
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count121
+\calc@Cskip=\skip77
+)
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@toc@title=\toks25
+\c@AM@survey=\count122
+\AM@templatesizebox=\box31
+))
+(./include/settings.tex
 Package hyperref Info: Option `colorlinks' set `true' on input line 13.
 ) (./main.aux)
 \openout1 = `main.aux'.
@@ -662,18 +687,19 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
- (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count119
-\scratchdimen=\dimen145
-\scratchbox=\box30
-\nofMPsegments=\count120
-\nofMParguments=\count121
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count122
-\MPscratchDim=\dimen146
-\MPnumerator=\count123
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count123
+\scratchdimen=\dimen147
+\scratchbox=\box32
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen148
+\MPnumerator=\count127
+\everyMPtoPDFconversion=\toks27
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
@@ -727,22 +753,61 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count128
 )
 LaTeX Info: Redefining \ref on input line 22.
 LaTeX Info: Redefining \pageref on input line 22.
  (./main.out)
+! Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.22 \begin{document}
+                     
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.22 \begin{document}
+                     
+? 
+! Extra \endcsname.
+\check@bm@number ...0\else \csname B_#1\endcsname 
+                                                  \fi 
+l.22 \begin{document}
+                     
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.22 \begin{document}
+                     
+? 
 (./main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
-
-\AtBeginShipoutBox=\box31
- ABD: EveryShipout initializing macros
-(./include/titlepageabstract.tex
+! Argument of \@@BOOKMARK has an extra }.
+<inserted text> 
+                \par 
+l.22 \begin{document}
+                     
+? 
+Runaway argument?
+! Paragraph ended before \@@BOOKMARK was complete.
+<to be read again> 
+                   \par 
+l.22 \begin{document}
+                     
+? 
+! Extra \fi.
+\@begindocumenthook ...apper {\ReadBookmarks }\fi 
+                                                  \Hy@pdfstringtrue \PDF@Set...
+l.22 \begin{document}
+                     
+? 
+\AtBeginShipoutBox=\box33
+ABD: EveryShipout initializing macros (./include/titlepageabstract.tex
 
 pdfTeX warning: pdflatex (file ./fig/auxiliary/frontpage.pdf): PDF inclusion: f
 ound PDF version <1.5>, but at most version <1.4> allowed
-<fig/auxiliary/frontpage.pdf, id=91, 597.23125pt x 845.1575pt>
+<fig/auxiliary/frontpage.pdf, id=75, 597.23125pt x 845.1575pt>
 File: fig/auxiliary/frontpage.pdf Graphic file (type pdf)
 
 <use fig/auxiliary/frontpage.pdf> [1
@@ -771,8 +836,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--80
 ]) [6
 
 ] (./main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write3
+\openout3 = `main.toc'.
 
  [1
 
@@ -805,7 +870,7 @@ ame{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.116 
-       [3] <fig/phototrans.jpg, id=203, 341.02406pt x 179.16937pt>
+       [3] <fig/phototrans.jpg, id=191, 341.02406pt x 179.16937pt>
 File: fig/phototrans.jpg Graphic file (type jpg)
 
 <use fig/phototrans.jpg>pdfTeX warning (ext4): destination with the same identi
@@ -863,13 +928,13 @@ Underfull \hbox (badness 3179) in paragraph at lines 19--22
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 8036 strings out of 493848
- 113671 string characters out of 1152823
- 205654 words of memory out of 3000000
- 10975 multiletter control sequences out of 15000+50000
+ 8573 strings out of 493848
+ 122218 string characters out of 1152823
+ 216971 words of memory out of 3000000
+ 11501 multiletter control sequences out of 15000+50000
  52173 words of font info for 104 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 43i,11n,43p,312b,372s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,43p,312b,378s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texm
@@ -879,9 +944,9 @@ blic/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (20 pages, 555648 bytes).
+Output written on main.pdf (20 pages, 554723 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
+ 290 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
