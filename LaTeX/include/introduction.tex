@@ -1,20 +1,22 @@
+<<<<<<< HEAD
 ﻿\chapter{Introduction}
 The mouse pointer is traditionally controlled using a computer mouse.
+=======
+\chapter{Introduction}
+The mouse pointer is traditionally controlled by using a computer mouse.
+
+>>>>>>> 4d96ffe0c167b96e460fab78ca4bc21f3335eaf7
 The first computer mouse was invented by \emph{Tom Cranston}, \emph{Fred Longstaff} and 
-\emph{Kenyon Taylor} as a secret military project in 1952. The project however wasn't 
-patented. It would take until 1968 when Douglas Engelbart presented the 
-first computer mouse to the public. His patent would end in 1987 but at that point the 
-computer was already very different from his original. Ever since
+\emph{Kenyon Taylor} as a secret military project in 1952. It would take until 
+1968 when \emph{Douglas Engelbart} presented the first computer mouse to the public.
+
+His patent would end in 1987 but at that point the  computer was already very different from his original. Ever since
 it was invented it has been the primary way to control the computer and still is today. Nowadays
-there are plenty of solutions out there to challenge the computer mouse.
+there are plenty of solutions out there to challenge the computer mouse.\cite{Mouse40} \cite{Pioneers}
 
 \section{Background}
-Since the physical keyboard is rather hard to replace when it comes to typing, this project
-will not touch on the matter of constructing any kind of new keyboard. Instead the project
-will focus on how to integrate our new approach to controlling the mouse-pointer with the existing
-keyboard.\\
-In this following section, several already existing solutions are presented to get a grasp
-on the good and bad features for controlling the mouse-pointer.\\
+In this following section, several already existing solutions are presented to get a 
+grasp on the good and bad features for controlling the mouse-pointer.\\
 Today almost all computer mice are either optical or using some kind of laser. An optical
 mouse uses a \emph{light-emitting diode} (LED) and photo-diodes to detect movement on a
 surface. Instead of a LED, a laser mouse uses an infrared laser diode to light a surface
@@ -50,7 +52,7 @@ This solution eliminates the need for a regular computer mouse and therefore sav
 \emph{IR-light}, is light composed of wavelengths above the spectrum visible to
 the human eye. The human eye can comprehend light in the range of about \emph{380 nm} to about
 \emph{700 nm}. IR-light lies in the range of \emph{700+ nm} up to a millimeter.
-IR can be sued in a variety of ares, like remote temperature sensing, short-range wireless
+IR can be used in a variety of areas, like remote temperature sensing, short-range wireless
 communications, night-vision and weather forecasting.
 
 \subsection{Arduino}
@@ -64,7 +66,7 @@ software running on a PC or other devices.
 The Arduino used in this project is the Arduino Due. The Due microcontroller board is 
 based on the Atmel SAM3X8E Arm Cortex-M3 CPU. Arduino Due is the first Arduino board 
 based on a 32-bit ARM microcontroller, and has a large number of digital and analog ports. 
-The clock is running at 84 MHz.
+The clock is running at 84 MHz.\cite{ArduinoDue}
 \begin{table}
 	\caption{Arduino Due hardware.}
 	\begin{tabular}{l | r}
@@ -79,7 +81,7 @@ The clock is running at 84 MHz.
 		Total DC Output Current on all I/O lines 	&	130mA \\
 		DC Current for 3.3V Pin 					&	800mA \\
 		DC Current for 5V Pin 						&	800mA \\
-		Flash Memory 								&	512KB all available for the user 														applications\\
+		Flash Memory 								&	512KB all available for the user applications\\
 		SRAM										&	96 KB (two banks: 64KB and 32KB) \\
 		Clock Speed 								&	84 MHz \\
 
@@ -133,6 +135,15 @@ but only when, it is exposed to photons of sufficient energy. By changing the cu
 flowing through the phototransistor, the sensitivity is calibrated on the photons 
 registered. This is a property a conventional photodiode lack.
 
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[scale=0.75]{fig/phototrans}
+\caption{Schematic of a phototransistor.}
+\label{fig: Phototransistor}
+\end{center}
+\end{figure}
+
+
 \subsubsection{Daylight filter}
 Another problem is that we need the emitter to match, only, with the phototransistor 
 specular characteristics. This is solved by a daylight filter which has a specular 
@@ -157,7 +168,7 @@ register movements above the device in a 3D space. This enables you to control t
 hand movements. It's small, practical and seems to be very accurate. \emph{LeapMotion} can be
 used for other things than just moving the cursor. It can for example be used to rotate animated
 objects in a CAD program.\\
-\emph{LeapMotion} is set for release the 13th of May 2013.
+\emph{LeapMotion} is set for release the 22th of July 2013.\cite{LeapMotion}
 
 \section{Problems}
 One of the first problems that came to mind when developing this prototype is how important 
