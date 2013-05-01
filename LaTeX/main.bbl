@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem{Mouse40}
+B.~Edwards, The computer mouse turns 40 (December 2009).
+\newline\urlprefix\url{http://www.macworld.com/article/1137400/mouse40.html}
+
+\bibitem{Pioneers}
+N.~R. Ball, J.~N. Vardalas, Ferranti-Packard: Pioneers in Canadian Electrical
+  Manufacturing, Mcgill Queens Univ Pr, 1994.
+
+\bibitem{ArduinoDue}
+Arduino, Arduino due overview (April 2013).
+\newline\urlprefix\url{http://arduino.cc/en/Main/ArduinoBoardDue}
+
+\bibitem{LeapMotion}
+Marc, The unofficial leap faq (May 2012).
+\newline\urlprefix\url{https://forums.leapmotion.com/showthread.php?420-The-unofficial-Leap-FAQ}
+
+\bibitem{Brody1996}
+J.~Brody, P.~Yager, R.~Goldstein, R.~Austin, {Biotechnology at low Reynolds
+  numbers}, Biophysical Journal 71~(6) (1996) 3430--3441.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0006349596795383}
+
+\end{thebibliography}
